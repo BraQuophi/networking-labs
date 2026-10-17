@@ -10,7 +10,7 @@ to practice LAN, VLAN, routing, and network services configuration.
 | [Lab 1](./lab-01-basic-lan/) | Basic LAN | Star topology, IP addressing, ping | ✅ Complete |
 | [Lab 2](./lab-02-vlans/) | VLANs | Segmentation, router-on-a-stick | ✅ Complete |
 | [Lab 3](./lab-03-routing/) | Routing | Static routes, OSPF | ✅ Complete |
-| [Lab 4](./lab-04-services/) | Services | DHCP, DNS, ACLs | In Progress |
+| [Lab 4](./lab-04-services/) | Services | DHCP, DNS, ACLs | ✅ Complete |
 
 ## 🛠️ Requirements
 
